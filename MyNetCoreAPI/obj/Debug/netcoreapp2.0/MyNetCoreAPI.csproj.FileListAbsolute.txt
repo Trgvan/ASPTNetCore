@@ -1,0 +1,11 @@
+C:\JobFolder\Study\NetCore\MyNetCoreAPI\bin\Debug\netcoreapp2.0\MyNetCoreAPI.deps.json
+C:\JobFolder\Study\NetCore\MyNetCoreAPI\bin\Debug\netcoreapp2.0\MyNetCoreAPI.runtimeconfig.json
+C:\JobFolder\Study\NetCore\MyNetCoreAPI\bin\Debug\netcoreapp2.0\MyNetCoreAPI.runtimeconfig.dev.json
+C:\JobFolder\Study\NetCore\MyNetCoreAPI\bin\Debug\netcoreapp2.0\MyNetCoreAPI.dll
+C:\JobFolder\Study\NetCore\MyNetCoreAPI\bin\Debug\netcoreapp2.0\MyNetCoreAPI.pdb
+C:\JobFolder\Study\NetCore\MyNetCoreAPI\obj\Debug\netcoreapp2.0\MyNetCoreAPI.csproj.CoreCompileInputs.cache
+C:\JobFolder\Study\NetCore\MyNetCoreAPI\obj\Debug\netcoreapp2.0\MyNetCoreAPI.AssemblyInfoInputs.cache
+C:\JobFolder\Study\NetCore\MyNetCoreAPI\obj\Debug\netcoreapp2.0\MyNetCoreAPI.AssemblyInfo.cs
+C:\JobFolder\Study\NetCore\MyNetCoreAPI\obj\Debug\netcoreapp2.0\MyNetCoreAPI.dll
+C:\JobFolder\Study\NetCore\MyNetCoreAPI\obj\Debug\netcoreapp2.0\MyNetCoreAPI.pdb
+C:\JobFolder\Study\NetCore\MyNetCoreAPI\obj\Debug\netcoreapp2.0\MyNetCoreAPI.csprojResolveAssemblyReference.cache
